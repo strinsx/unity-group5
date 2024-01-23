@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e1172085d6cd1f04bbfcdcd47d668185
+guid: 78a4609653722084fa86ee0da551de0c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3726177181797466949
-    second: ewan_ULIT_0
+      213: -5608819318807225731
+    second: background 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ewan_ULIT_0
+      name: background 1_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 200
-        width: 463
-        height: 173
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bbcbbc46895f94cc0800000000000000
-      internalID: -3726177181797466949
+      spriteID: d7a952ddb887922b0800000000000000
+      internalID: -5608819318807225731
       vertices: []
       indices: 
       edges: []
@@ -130,8 +130,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      ewan_ULIT_0: -3726177181797466949
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

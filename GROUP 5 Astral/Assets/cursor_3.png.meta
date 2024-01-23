@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: e1172085d6cd1f04bbfcdcd47d668185
+guid: 396b8dedd7c6a81469420e72403aeb88
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3726177181797466949
-    second: ewan_ULIT_0
+      213: 4268207273479808705
+    second: cursor_3_0
+  - first:
+      213: 2567868017334924668
+    second: cursor_3_1
+  - first:
+      213: 2390995554244343228
+    second: cursor_3_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ewan_ULIT_0
+      name: cursor_3_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 200
-        width: 463
-        height: 173
+        x: 148
+        y: 237
+        width: 220
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -114,8 +120,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bbcbbc46895f94cc0800000000000000
-      internalID: -3726177181797466949
+      spriteID: 1c6a08bb6e7bb3b30800000000000000
+      internalID: 4268207273479808705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursor_3_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 257
+        width: 159
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75b55b4b56e2a320800000000000000
+      internalID: 2567868017334924668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cursor_3_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 180
+        width: 159
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5b54ed9c58e2120800000000000000
+      internalID: 2390995554244343228
       vertices: []
       indices: 
       edges: []
@@ -130,8 +178,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      ewan_ULIT_0: -3726177181797466949
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
