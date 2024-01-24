@@ -6169,7 +6169,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 699202662}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &791014021
 GameObject:
   m_ObjectHideFlags: 0
@@ -6248,11 +6247,9 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 --- !u!1 &993149836
 GameObject:
-=======
 --- !u!95 &699202667
 Animator:
   serializedVersion: 7
->>>>>>> 3abfa33e82d84cbb38051dd1088c938bebc43611
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -6614,13 +6611,10 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-<<<<<<< HEAD
   m_AnchoredPosition: {x: -636.4553, y: -128.69965}
   m_SizeDelta: {x: -1378.9106, y: -360.60074}
-=======
   m_AnchoredPosition: {x: -636, y: -129.1846}
   m_SizeDelta: {x: -1379.8213, y: -361.5706}
->>>>>>> 3abfa33e82d84cbb38051dd1088c938bebc43611
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1482187515
 Animator:
