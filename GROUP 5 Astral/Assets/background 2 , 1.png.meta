@@ -1498,7 +1498,65 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      background 2 , 1_0: -2011439517926341125
+      background 2 , 1_1: -8018524234845131678
+      background 2 , 1_10: 3777158769298885877
+      background 2 , 1_11: 1774338278236714110
+      background 2 , 1_12: -8064449020952308067
+      background 2 , 1_13: -2013921316574624009
+      background 2 , 1_14: 2667753820412488616
+      background 2 , 1_15: 385183550871829233
+      background 2 , 1_16: -3148600177407210883
+      background 2 , 1_17: -5042507845118273497
+      background 2 , 1_18: -406127966773205454
+      background 2 , 1_19: 6594658577351159061
+      background 2 , 1_2: -5339531495768294184
+      background 2 , 1_20: -3956521442351270303
+      background 2 , 1_21: 7248959252893515972
+      background 2 , 1_22: 3384247031809254084
+      background 2 , 1_23: -3161997537402692005
+      background 2 , 1_24: 966613744996859772
+      background 2 , 1_25: -2670120494102336788
+      background 2 , 1_26: 7031376218824273614
+      background 2 , 1_27: 5905705723927194623
+      background 2 , 1_28: -5664167073955347799
+      background 2 , 1_29: -4381397967662742336
+      background 2 , 1_3: -6517702159395819594
+      background 2 , 1_30: 1090806223338429284
+      background 2 , 1_31: -9124863387383543978
+      background 2 , 1_32: 374396177987993556
+      background 2 , 1_33: -5396368780294130975
+      background 2 , 1_34: -7423909667765458810
+      background 2 , 1_35: 4805189336215941546
+      background 2 , 1_36: -2704368006450880731
+      background 2 , 1_37: 4884962039963988156
+      background 2 , 1_38: -386053903377664087
+      background 2 , 1_39: -5848039729854955602
+      background 2 , 1_4: 7759567711816423351
+      background 2 , 1_40: -2707562111557369351
+      background 2 , 1_41: -4977696901195711369
+      background 2 , 1_42: -3722662604360499728
+      background 2 , 1_43: 7050396969519480019
+      background 2 , 1_44: 7073398689225732780
+      background 2 , 1_45: -544577825114511491
+      background 2 , 1_46: 8836957795699250120
+      background 2 , 1_47: -4666870676458783778
+      background 2 , 1_48: 3731853232176218584
+      background 2 , 1_49: 795044487491715944
+      background 2 , 1_5: -8945640154193258336
+      background 2 , 1_50: 5116936638983017188
+      background 2 , 1_51: -6615125699436910997
+      background 2 , 1_52: 8080765311984903488
+      background 2 , 1_53: 8263059302847070421
+      background 2 , 1_54: -1605391800839180982
+      background 2 , 1_55: -2995031703460734168
+      background 2 , 1_56: -4304041306517304063
+      background 2 , 1_57: -369397545563591907
+      background 2 , 1_6: 2368932053307898133
+      background 2 , 1_7: 729707012095879083
+      background 2 , 1_8: -9140662562667481045
+      background 2 , 1_9: -646240170969962388
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
